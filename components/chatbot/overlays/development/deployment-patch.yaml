@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jrichter/chbot:613c5713a68077ca4a65f04b3112aa961c8b09c3@sha256:8c46efcfc243d1743d273809102a94c99bb316c14182919c0bcd2741f10140df # use pre-built to bootstrap
+        - image: quay.io/jrichter/chbot:b3e68e379cb8b674ad785f1084f76bd86a8a15f4@sha256:2a449509912c7a88e05c13e5f7e4e84f381b24cb9a7693a317dc7f3b8475fc00 # use pre-built to bootstrap
           name: app-inference
